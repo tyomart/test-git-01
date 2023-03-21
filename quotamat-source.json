@@ -1,26 +1,56 @@
 [
   {
-     "author":"Aaa Aaa",
-     "quote":"a1a1"
+     "author":"Albert Einstein",
+     "quote":"A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience."
   },
   {
-     "author":"Aaa Aaa",
-     "quote":"a3a4 a1 a2"
+     "author":"Albert Einstein",
+     "quote":"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones."
   },
   {
-     "author":"Bbb Bbb",
-     "quote":"b1 b2 b3 b4"
+     "author":"Kate Bush",
+     "quote":"As an artist, you're never happy with anything you do. It's part of the process."
   },
   {
-     "author":"Caa Caa",
-     "quote":"Cccc ccc ccc"
+     "author":"Cyrano de Bergerac",
+     "quote":"Most men judge only by their senses and let themselves be persuaded by what they see"
+  },
+   {
+     "author":"Albert Einstein",
+     "quote":" Without "ethical culture" there is no salvation for humanity"
+  },{
+     "author":"Cyrano de Bergerac",
+     "quote":"I think the Moon is a world like this one, and the Earth is its moon."
   },
   {
-     "author":"Caa Caa",
-     "quote":"C1 c1ccc ddd fff"
+     "author":"Yehuda Bauer",
+     "quote":"Thou shall not be a perpetrator, thou shall not be a victim, and thou shall never, but never, be a bystander."
   },
   {
-     "author":"Hhh Hhh",
-     "quote":"h1werwe  werewr fwer"
+     "author":"Clint Eastwood",
+     "quote":"I thought I might die. But then I thought, 'Other people have made it through these things before'. I kept my eyes on the lights on shore and kept swimming."
+  },
+  {
+     "author":"Masanobu Fukuoka",
+     "quote":"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
+  },
+  {
+     "author":"Luigi Pirandello",
+     "quote":"Anyone can be heroic from time to time, but a gentleman is something which you have to be all the time. Which isn't easy."
+  },
+  {
+     "author":"Peace Pilgrim",
+     "quote":"I deal with spiritual truth which should never be sold and need never be bought. When you are ready it will be given."
+  },
+   {
+     "author":"Michael Palin",
+     "quote":"Contrary to what the politicians and religious leaders would like us to believe, the world won't be made safer by creating barriers between people."
+  },{
+     "author":"Lev Vygotsky",
+     "quote":"Through others, we become ourselves."
+  },
+  {
+     "author":"Swami Vivekananda",
+     "quote":"The highest truth is this: God is present in all beings."
   }
 ]
